@@ -8,7 +8,7 @@
         @endif
           <div class="row">
             <div class="col-6">
-              <h1 >DATA PEGAWAI</h1>
+              <h1 >DATA PEGAWAI echa</h1>
             </div>
             <div class="col-6">
               
