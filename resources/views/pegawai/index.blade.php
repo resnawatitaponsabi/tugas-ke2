@@ -13,7 +13,7 @@
             <div class="col-6">
               
             <button type="button" class="btn btn-primary btn-sm float-right" data-bs-toggle="modal" data-bs-target="#exampleModal">
-              Tambah data pegawai</button>            
+              Tambah data pegawai eca</button>            
             </div>
 
             <table class='table table-hover'>
